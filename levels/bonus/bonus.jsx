@@ -14,5 +14,6 @@ function startLevel(map) {
 
 #END_EDITABLE#
   map.placeObject(15,15, 'computer');
+  // Adding this to create michaelBranch
 #END_OF_START_LEVEL#
 }
